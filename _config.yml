@@ -1,0 +1,40 @@
+status: okay # "okay", "warn" or "error"
+title: BEKEY Status
+email: operations@bekey.dk
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: BekeyLocks
+author: BEKEY A/S
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - bekey-status.iml
+  - README.md
+
+timezone: Europe/Copenhagen
+google_analytics: UA-19988942-15
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+
+# GitHub constants
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax

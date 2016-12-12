@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@import "minima";
+
+a, a:visited, a:hover { color: #31b5e6 }
+.site-title { text-decoration: none; font-weight: bold }
+a:hover { text-decoration: none }
+h1.page-heading { display: none }
+.logo { width: 24px; vertical-align: baseline }
+.current-status { border-bottom: 1px solid #e8e8e8 }
+.current-status .wrapper { padding-top: 15px }
+.current-status.okay { background-color: #BDECB6 }
+.current-status.warn { background-color: #fdfd96 }
+.current-status.error { background-color: #FE6960 }
+.site-footer, .page-wrap:after { background: #eee; height: 180px; }
+
+* { margin: 0 }
+html, body {
+  height: 100%;
+}
+.page-wrap {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -180px;
+}
+.page-content { min-height: 500px }
+.page-wrap:after {
+  content: "";
+  display: block;
+}
