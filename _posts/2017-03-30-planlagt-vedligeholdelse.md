@@ -2,7 +2,7 @@
 title:  "Planlagt vedligeholdelse d. 5/4-2017"
 date:   2017-03-30 15:12:00 +0100
 ---
-For at sikre en fortsat stabil drift foretager BEKEY opgraderinger af en database-server. Opgraderingen vil blive foretaget den 5. april 2017 mellem kl. 21 og 22 dansk tid.
+For at sikre en fortsat stabil drift planlægger BEKEY at opgradere en database server. Opgraderingen vil blive foretaget den 5. april 2017 mellem kl. 21 og 22 dansk tid.
 
 Hvad vedligeholdelsen betyder for dig og dine brugere:
 
