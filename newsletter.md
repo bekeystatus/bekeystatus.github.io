@@ -11,7 +11,7 @@ layout: default
 <div id="mc_embed_signup">
 <form action="https://bekey.us10.list-manage.com/subscribe/post?u=95049913536e9a9c2cc084d66&amp;id=240c56b78c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to release notes</h2>
+	<h2>Subscribe to our release notes</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -21,12 +21,12 @@ layout: default
 <div class="mc-field-group input-group">
     <strong>Interested in </strong>
     <ul><li><input type="checkbox" value="4" name="group[9961][4]" id="mce-group[9961]-9961-0"><label for="mce-group[9961]-9961-0">Android app</label></li>
-<li><input type="checkbox" value="32768" name="group[9961][32768]" id="mce-group[9961]-9961-1"><label for="mce-group[9961]-9961-1">Backend (hosted)</label></li>
-<li><input type="checkbox" value="65536" name="group[9961][65536]" id="mce-group[9961]-9961-2"><label for="mce-group[9961]-9961-2">Backend (stand-alone)</label></li>
-<li><input type="checkbox" value="1" name="group[9961][1]" id="mce-group[9961]-9961-3"><label for="mce-group[9961]-9961-3">Install app</label></li>
-<li><input type="checkbox" value="8" name="group[9961][8]" id="mce-group[9961]-9961-4"><label for="mce-group[9961]-9961-4">iOS app</label></li>
-<li><input type="checkbox" value="8192" name="group[9961][8192]" id="mce-group[9961]-9961-5"><label for="mce-group[9961]-9961-5">J2ME app</label></li>
-<li><input type="checkbox" value="131072" name="group[9961][131072]" id="mce-group[9961]-9961-6"><label for="mce-group[9961]-9961-6">Libraries (SDKs)</label></li>
+<li><input type="checkbox" value="16384" name="group[9961][16384]" id="mce-group[9961]-9961-1"><label for="mce-group[9961]-9961-1">Backend (hosted)</label></li>
+<li><input type="checkbox" value="32768" name="group[9961][32768]" id="mce-group[9961]-9961-2"><label for="mce-group[9961]-9961-2">Backend (stand-alone)</label></li>
+<li><input type="checkbox" value="16777216" name="group[9961][16777216]" id="mce-group[9961]-9961-3"><label for="mce-group[9961]-9961-3">Firmware updates</label></li>
+<li><input type="checkbox" value="1" name="group[9961][1]" id="mce-group[9961]-9961-4"><label for="mce-group[9961]-9961-4">Install app</label></li>
+<li><input type="checkbox" value="8" name="group[9961][8]" id="mce-group[9961]-9961-5"><label for="mce-group[9961]-9961-5">iOS app</label></li>
+<li><input type="checkbox" value="65536" name="group[9961][65536]" id="mce-group[9961]-9961-6"><label for="mce-group[9961]-9961-6">Libraries (SDKs)</label></li>
 <li><input type="checkbox" value="2" name="group[9961][2]" id="mce-group[9961]-9961-7"><label for="mce-group[9961]-9961-7">NETKEY</label></li>
 <li><input type="checkbox" value="2048" name="group[9961][2048]" id="mce-group[9961]-9961-8"><label for="mce-group[9961]-9961-8">OrangeBox</label></li>
 <li><input type="checkbox" value="16" name="group[9961][16]" id="mce-group[9961]-9961-9"><label for="mce-group[9961]-9961-9">Windows Phone app</label></li>
