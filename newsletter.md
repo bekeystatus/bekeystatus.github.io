@@ -23,7 +23,6 @@ layout: default
     <ul><li><input type="checkbox" value="4" name="group[9961][4]" id="mce-group[9961]-9961-0"><label for="mce-group[9961]-9961-0">Android app</label></li>
 <li><input type="checkbox" value="16384" name="group[9961][16384]" id="mce-group[9961]-9961-1"><label for="mce-group[9961]-9961-1">Backend (hosted)</label></li>
 <li><input type="checkbox" value="32768" name="group[9961][32768]" id="mce-group[9961]-9961-2"><label for="mce-group[9961]-9961-2">Backend (stand-alone)</label></li>
-<li><input type="checkbox" value="16777216" name="group[9961][16777216]" id="mce-group[9961]-9961-3"><label for="mce-group[9961]-9961-3">Firmware updates</label></li>
 <li><input type="checkbox" value="1" name="group[9961][1]" id="mce-group[9961]-9961-4"><label for="mce-group[9961]-9961-4">Install app</label></li>
 <li><input type="checkbox" value="8" name="group[9961][8]" id="mce-group[9961]-9961-5"><label for="mce-group[9961]-9961-5">iOS app</label></li>
 <li><input type="checkbox" value="65536" name="group[9961][65536]" id="mce-group[9961]-9961-6"><label for="mce-group[9961]-9961-6">Libraries (SDKs)</label></li>
