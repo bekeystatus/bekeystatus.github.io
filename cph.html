@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title></title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="googlebot" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <script
+    type="text/javascript"
+    src="//code.jquery.com/jquery-git.js"
+    
+  ></script>
+
+    <link rel="stylesheet" type="text/css" href="/css/result-light.css">
+
+
+  <style id="compiled-css" type="text/css">
+      
+  </style>
+
+
+  <!-- TODO: Missing CoffeeScript 2 -->
+
+  <script type="text/javascript">
+
+
+    $(window).on('load', function() {
+      
+var sendDate = (new Date()).getTime();
+
+$.ajax({
+  type: "GET",
+  url: "https://ae.bekey.dk/api/ping",
+  success: function(){
+    var receiveDate = (new Date()).getTime();
+    var responseTimeMs = receiveDate - sendDate;
+    $("body").html(responseTimeMs);
+  }
+});
+
+    });
+
+</script>
+
+</head>
+<body>
+    
+Please wait
+  
+</body>
+</html>
