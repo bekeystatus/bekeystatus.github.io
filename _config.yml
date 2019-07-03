@@ -17,8 +17,6 @@ exclude:
   - Gemfile.lock
   - bekey-status.iml
   - README.md
-plugins:
-  - jekyll-redirect-from
 
 timezone: Europe/Copenhagen
 google_analytics: UA-19988942-15
