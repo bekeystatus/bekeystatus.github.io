@@ -2,7 +2,7 @@
 title:  "Planlagt vedligeholdelse d. 28/2-2017"
 date:   2017-02-15 15:05:00 +0100
 ---
-For at sikre en fortsat stabil drift planlægger BEKEY ændringer af vores infrastruktur. Ændringerne vil blive foretaget den 28. februar 2017 mellem kl. 21 og 22 dansk tid.
+For at sikre en fortsat stabil drift planlægger Bekey ændringer af vores infrastruktur. Ændringerne vil blive foretaget den 28. februar 2017 mellem kl. 21 og 22 dansk tid.
 
 Hvad vedligeholdelsen betyder for dig og dine brugere:
 

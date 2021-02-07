@@ -1,10 +1,10 @@
 status: okay # "okay", "warn" or "error"
-title: BEKEY Status
+title: Bekey Status
 email: operations@bekey.dk
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BekeyLocks
-author: BEKEY A/S
+author: Bekey A/S
 
 # Build settings
 markdown: kramdown

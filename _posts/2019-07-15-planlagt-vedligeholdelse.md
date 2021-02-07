@@ -2,7 +2,7 @@
 title:  "Planlagt vedligeholdelse d. 15/7-2019"
 date:   2019-07-01 16:56:00 +0100
 ---
-For at sikre en fortsat stabil drift planlægger BEKEY opdatering af vores servere. Opdateringen vil blive foretaget den 15. juli 2019 mellem kl. 21 og 22 dansk tid.
+For at sikre en fortsat stabil drift planlægger Bekey opdatering af vores servere. Opdateringen vil blive foretaget den 15. juli 2019 mellem kl. 21 og 22 dansk tid.
 
 Hvad vedligeholdelsen betyder for dig og dine brugere:
 
